@@ -11,7 +11,7 @@ body{
 }
 .container{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     display: grid;
     background-color: beige;
     grid-template-rows: 324px repeat(2, 247px);
