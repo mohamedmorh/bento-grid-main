@@ -7,11 +7,12 @@
     font-family: sans-serif;
 }
 body{
-    height: 100vh;
+    width: 1440px;
+    height: 1029px;
 }
 .container{
     width: 100%;
-    height: 100vh;
+    height: 100%;  
     display: grid;
     background-color: beige;
     grid-template-rows: 324px repeat(2, 247px);
